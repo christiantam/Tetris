@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<audacityproject projname="sounds_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="0.2786394558" vpos="0" h="0.0000000000" zoom="43.0664062500" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="land" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="5120" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00005.au' len='5120' min='-0.163928' max='0.167193' rms='0.006142'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="line" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="23552" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00000.au' len='23552' min='-0.217762' max='0.207691' rms='0.024520'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="rotate" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="6144" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00007.au' len='6144' min='-0.207599' max='0.199084' rms='0.006364'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="lose" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="24576" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00009.au' len='24576' min='-0.170459' max='0.245777' rms='0.019731'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="drop" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="12288" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00016.au' len='12288' min='-0.053910' max='0.043137' rms='0.004093'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>
